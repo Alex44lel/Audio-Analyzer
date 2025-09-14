@@ -4,6 +4,9 @@ Small, focused tools to record audio from your microphone and visualize it as a 
 - A live, low-latency viewer built with PyQtGraph.
 - A one-shot recorder that saves a WAV and an analysis image.
 
+<img width="1141" height="943" alt="image" src="https://github.com/user-attachments/assets/d6434384-b09b-40f8-8af0-9408a71346d2" />
+
+
 Files:
 - [live_audio_to_chart.py](live_audio_to_chart.py) — real-time visualization (waveform, FFT, spectrogram).
 - [audio_to_charts.py](audio_to_charts.py) — records 1 second and saves charts to an image.
